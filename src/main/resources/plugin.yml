@@ -1,0 +1,5 @@
+name: MiningBoost
+version: '1.0.0'
+main: winlyps.miningBoost.MiningBoost
+api-version: '1.16'
+authors: [ Winlyps ]
